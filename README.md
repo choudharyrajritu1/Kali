@@ -17,11 +17,11 @@ Information Gathering
  1. Download
  - clone through termial :
   ``` 
-  git clone https://github.com/rpranshu/EternalView.git
+  git clone https://github.com/choudharyrajritu1/Kali/choudhary.sh
   ```
   2. Run
   -in terminal
   ```
-  chmod +x EternalView.sh
-  ./EternalView.sh
+  chmod +xw choudhary.sh
+  ./choudhary.sh
   ```
