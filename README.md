@@ -12,6 +12,10 @@ Information Gathering
   -  If you are using Windows, [Install UBUNTU Subsystem on Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
   -  Wget
   -  Whois
+  -  whatweb
+  -  dmitry
+  -  whois
+
 
 ## How to install: 
  1. Download
