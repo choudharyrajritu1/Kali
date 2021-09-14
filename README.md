@@ -1,4 +1,6 @@
 # Kali
+###### ETHICAL HACKING PROJECT #########
+..........FROM:MANAL SWAMI............
 Information Gathering
 
 
@@ -21,7 +23,7 @@ Information Gathering
  1. Download
  - clone through termial :
   ``` 
-  git clone https://github.com/choudharyrajritu1/Kali/choudhary.sh
+  git clone https://github.com/choudharyrajritu1/Kali/
   ```
   2. Run
   -in terminal
