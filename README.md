@@ -1,6 +1,6 @@
 # Kali
 ###### ETHICAL HACKING PROJECT #########
-..........TO:MANAL SWAMI............
+..........TO:MANAL SWAMI  SIR............
 #......FROM:RITU RAJ CHOUDHARY.......
 
 
@@ -9,9 +9,9 @@
 **The user is responsible for his/her actions!**
 
 ## Dependencies:
-
+ONLY FOR KALI LINUX
   -  BASH
-  -  If you are using Windows, [Install UBUNTU Subsystem on Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+  -  If you are using Windows, [Install KALI LINUX Subsystem on Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
   -  Wget
   -  Whois
   -  whatweb
