@@ -1,7 +1,7 @@
 # Kali
 ###### ETHICAL HACKING PROJECT #########
 ..........FROM:MANAL SWAMI............
-Information Gathering
+
 
 
 # CAUTION:
