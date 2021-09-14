@@ -1,7 +1,7 @@
 # Kali
 ###### ETHICAL HACKING PROJECT #########
-..........FROM:MANAL SWAMI............
-
+..........TO:MANAL SWAMI............
+......FROM:RITU RAJ CHOUDHARY.......
 
 
 # CAUTION:
