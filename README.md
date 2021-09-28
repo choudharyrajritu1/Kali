@@ -1,6 +1,6 @@
 # Kali
 ###### ETHICAL HACKING PROJECT #########
-..........TO:MANAL SWAMI  SIR............
+
 #......FROM:RITU RAJ CHOUDHARY.......
 
 
